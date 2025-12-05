@@ -2,6 +2,8 @@
 
 This script connects to an Elasticsearch cluster, counts documents older than a specified time (default: 2 day), and deletes them safely using delete_by_query.
 
+*Time format of documents is : "2025-12-04T14:57:35.509Z"*
+
 ## Requirements
 
 -   Python 3.8+
