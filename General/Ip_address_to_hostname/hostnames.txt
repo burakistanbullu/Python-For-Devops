@@ -1,0 +1,3 @@
+216.58.212.14 : sof04s01-in-f14.1e100.net
+157.240.238.35 : edge-star-mini-shv-01-ist1.facebook.com
+157.240.238.174 : instagram-p42-shv-01-ist1.fbcdn.net
