@@ -1,3 +1,3 @@
-server01 : 172.18.181.11
-server02 : 172.18.181.12
-server03 : 172.18.181.13
+google.com : 216.58.212.14
+facebook.com : 157.240.238.35
+instagram.com : 157.240.238.174
